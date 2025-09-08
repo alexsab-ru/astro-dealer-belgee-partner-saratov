@@ -264,7 +264,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2025/</url></car>
 		<car>
-			<unique_id>6e2ea60c49d51828080619411132a36e</unique_id>
+			<unique_id>f5b20b79965505cd1c0c6b11ebfbbb84</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -284,7 +284,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z5SB922735</vin>
+			<vin>Y4K8622Z2SB918576</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -308,7 +308,7 @@
 			</multiposting>
 		<url>https://belgee-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2025/</url></car>
 		<car>
-			<unique_id>f5b20b79965505cd1c0c6b11ebfbbb84</unique_id>
+			<unique_id>6e2ea60c49d51828080619411132a36e</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -328,7 +328,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>739097</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z2SB918576</vin>
+			<vin>Y4K8622Z5SB922735</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -407,7 +407,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>10</run>
 			<year>2025</year>
 			<price>3121190</price>
 			<credit_discount>325000</credit_discount>
