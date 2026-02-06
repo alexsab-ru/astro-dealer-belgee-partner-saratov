@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>7a61652bb07d89b36df6cf844d832c9f</Id>
+		<Id>dc767da456a7201f0c441465916eb7d4</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -30,27 +30,28 @@
 		<MaxDiscount>635000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/4efff5d7e333804de4bce94c16277ac0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/4827d6a689287e4b64f916704a8b3b54.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/a77fdc5807dc6103312ed29790be99ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/7d34efb262925c903e711af053c0d460.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/a2c890e52397138bb1afff2e21b62d2e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/81c0d30e6c83234877c7a9a1cdeab973.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/256d1a90aec742c043b865b213175b1b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/f61b11afeb62f31f5f5ad86d6a4f1e04.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/ca864716451d566e4a68572ee860877e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/6bc625fa70bcbd16d45c5e4c014d3950.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/dd1a20b41b5fa0ca829865fff785831d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/72b2d1cd7aef16be2c94719f1bfac90f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/068683d972deef13b9f3b3a0d101d40a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/67073648cfa2ca084bd6fce11f948bcf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/34b1661ba01b560f1b97e5737bd59230.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/e5d628dcede4b7ab9b0d380e04f0cc42.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/652abc0308aa1a1341937675f6d639b3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/311b73a4019c8d044f13c7b06ea7c7ff.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/790e4e9f8bd9730b54e6bfd80741c2ab.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/66ff87bbf6830fcef868790f11ae7910.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/de86e1fd1e3ee2264b94d7b307f80629.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/f71a0508781a1fc7a6b6be2157073b10.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50</Model>
@@ -64,7 +65,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z6TB905945</VIN>
+		<VIN>Y4K8622Z2TB905957</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -136,7 +137,7 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>dc767da456a7201f0c441465916eb7d4</Id>
+		<Id>7a61652bb07d89b36df6cf844d832c9f</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -166,28 +167,27 @@
 		<MaxDiscount>635000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/4efff5d7e333804de4bce94c16277ac0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/4827d6a689287e4b64f916704a8b3b54.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/a77fdc5807dc6103312ed29790be99ba.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/7d34efb262925c903e711af053c0d460.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/a2c890e52397138bb1afff2e21b62d2e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/81c0d30e6c83234877c7a9a1cdeab973.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/256d1a90aec742c043b865b213175b1b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/f61b11afeb62f31f5f5ad86d6a4f1e04.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/ca864716451d566e4a68572ee860877e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/6bc625fa70bcbd16d45c5e4c014d3950.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/dd1a20b41b5fa0ca829865fff785831d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/72b2d1cd7aef16be2c94719f1bfac90f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/068683d972deef13b9f3b3a0d101d40a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/67073648cfa2ca084bd6fce11f948bcf.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/34b1661ba01b560f1b97e5737bd59230.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/e5d628dcede4b7ab9b0d380e04f0cc42.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/652abc0308aa1a1341937675f6d639b3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/311b73a4019c8d044f13c7b06ea7c7ff.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/790e4e9f8bd9730b54e6bfd80741c2ab.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/66ff87bbf6830fcef868790f11ae7910.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/de86e1fd1e3ee2264b94d7b307f80629.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z2TB905957/f71a0508781a1fc7a6b6be2157073b10.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" />
 		</Images>
 		<Make>Belgee</Make>
 		<Model>X50</Model>
@@ -201,76 +201,7 @@
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z2TB905957</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>fe83682fb7a12afd5ad9fe59e8e3484c</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description>
-		<Price>2690990</Price>
-		<TradeinDiscount>140000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>780000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" />
-		</Images>
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720818</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z8TB908149</VIN>
+		<VIN>Y4K8622Z6TB905945</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -341,6 +272,75 @@
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z0TB907898</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>fe83682fb7a12afd5ad9fe59e8e3484c</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description>
+		<Price>2690990</Price>
+		<TradeinDiscount>140000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>780000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X50</Model>
+		<GenerationId>18720814</GenerationId>
+		<ModificationId>18720815</ModificationId>
+		<ComplectationId>18720818</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z8TB908149</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -737,6 +737,53 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>38b3651cd60a65626696df5a0bffb325</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description>
+		<Price>2590990</Price>
+		<TradeinDiscount>250000</TradeinDiscount>
+		<CreditDiscount>521877</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>771877</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X50</Model>
+		<GenerationId>18720814</GenerationId>
+		<ModificationId>18720815</ModificationId>
+		<ComplectationId>18720817</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622ZXTB907973</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>857100cb2e791521af901bf9e5e11d14</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -803,188 +850,7 @@
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
-	<Ad>
-		<Id>38b3651cd60a65626696df5a0bffb325</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description>
-		<Price>2590990</Price>
-		<TradeinDiscount>250000</TradeinDiscount>
-		<CreditDiscount>521877</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>771877</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X50</Model>
-		<GenerationId>18720814</GenerationId>
-		<ModificationId>18720815</ModificationId>
-		<ComplectationId>18720817</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622ZXTB907973</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
 <Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>cc44564c8b8e862e115a2fac1cae7a26</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905946</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>50a4aa414ccc8048ae2a65e29d50d907</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905949</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1083,7 +949,7 @@
 		
 		
 		
-	<Id>e21b09c2df3918c79582b3eb948e2158</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>50a4aa414ccc8048ae2a65e29d50d907</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -1099,7 +965,73 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905949</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>cc44564c8b8e862e115a2fac1cae7a26</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -1121,7 +1053,7 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908150</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905946</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1191,6 +1123,74 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/be07ce16f8109a080d7e286cfb7b0c3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/edb480d2242fbbc5490a8cfe747ed640.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1588fbb5272ade016b232ed8eba910e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/ce142a6dfc488221986a8591a93597f5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/25e7c670b71f85a246cf8a96615d07bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1f3a7ea8812c1f8d3265227ff3d98811.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1eff964878fb77a5e9f6fcbb12b7aee1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/209e2cfe0a5312e3b0017b5e95080ec9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/c1af20ea5e9e2791567127e2e07d7f7a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/9373fbc6563e44f347178fd6a563b3da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a5af213651c659ee866f31435426ee11.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a045b86901be13275799f8676f4468ac.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1303a1c4c6b9056e4fde7dde524063e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/679a36b8fc229244071c21c3679b50ec.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/0dbf187d31efdaa930e9cc4047bbd371.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/932e98d1586fd2c702273999000098da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/451bc0668ed9bd00bc699132c17dd9c6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/3c218c7a098fc07c689a9753edb44e78.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/e597b40c2871c1257c7c7ffc870f57f6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a20c215e590e8bed38aacc386c9ecc5f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/fec41465eaebad9f31209ee38ebcdbcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/47a2977c6a28f71f4264b2de40da1432.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z0TB907899</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>e21b09c2df3918c79582b3eb948e2158</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908150</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1606,72 +1606,6 @@
 		
 		
 		
-	<Id>17a463b25b5a4abb52665d167ce454a4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908041</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>9d6b2b2d9732876d5f8a66289a10f639</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -1718,7 +1652,7 @@
 		
 		
 		
-	<Id>26f5613d86821c86a975a6ded781a44f</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>17a463b25b5a4abb52665d167ce454a4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -1734,7 +1668,7 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images>
 			
 			
 			
@@ -1754,75 +1688,7 @@
 			
 			
 			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905947</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>43f9f9ecd43828729cb7712b9b13ecb6</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905950</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908041</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1921,7 +1787,7 @@
 		
 		
 		
-	<Id>129909cdd6a3e9c73cc1fe7eac254ae2</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>43f9f9ecd43828729cb7712b9b13ecb6</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -1937,7 +1803,73 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905950</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>26f5613d86821c86a975a6ded781a44f</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -1959,7 +1891,7 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908151</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905947</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2029,6 +1961,74 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/be07ce16f8109a080d7e286cfb7b0c3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/edb480d2242fbbc5490a8cfe747ed640.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1588fbb5272ade016b232ed8eba910e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/ce142a6dfc488221986a8591a93597f5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/25e7c670b71f85a246cf8a96615d07bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1f3a7ea8812c1f8d3265227ff3d98811.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1eff964878fb77a5e9f6fcbb12b7aee1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/209e2cfe0a5312e3b0017b5e95080ec9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/c1af20ea5e9e2791567127e2e07d7f7a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/9373fbc6563e44f347178fd6a563b3da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a5af213651c659ee866f31435426ee11.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a045b86901be13275799f8676f4468ac.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1303a1c4c6b9056e4fde7dde524063e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/679a36b8fc229244071c21c3679b50ec.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/0dbf187d31efdaa930e9cc4047bbd371.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/932e98d1586fd2c702273999000098da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/451bc0668ed9bd00bc699132c17dd9c6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/3c218c7a098fc07c689a9753edb44e78.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/e597b40c2871c1257c7c7ffc870f57f6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a20c215e590e8bed38aacc386c9ecc5f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/fec41465eaebad9f31209ee38ebcdbcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/47a2977c6a28f71f4264b2de40da1432.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z0TB907900</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>129909cdd6a3e9c73cc1fe7eac254ae2</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908151</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2444,72 +2444,6 @@
 		
 		
 		
-	<Id>128592df054ac10fc35307edaf984a33</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908042</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>3a55517ec2f2c1e0012248ead7aade1d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -2556,7 +2490,7 @@
 		
 		
 		
-	<Id>ef14a2c8d755e3839ddf69d8ae90bb74</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>128592df054ac10fc35307edaf984a33</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -2572,7 +2506,7 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images>
 			
 			
 			
@@ -2592,75 +2526,7 @@
 			
 			
 			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905948</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>e2e095094fb6ad02c65b212cbd6f5eb7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905951</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908042</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2759,7 +2625,7 @@
 		
 		
 		
-	<Id>283d0ac2f462c8c70a918c5d8114a808</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>e2e095094fb6ad02c65b212cbd6f5eb7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -2775,7 +2641,73 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905951</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>ef14a2c8d755e3839ddf69d8ae90bb74</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -2797,7 +2729,7 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908152</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905948</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2867,6 +2799,74 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/be07ce16f8109a080d7e286cfb7b0c3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/edb480d2242fbbc5490a8cfe747ed640.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1588fbb5272ade016b232ed8eba910e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/ce142a6dfc488221986a8591a93597f5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/25e7c670b71f85a246cf8a96615d07bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1f3a7ea8812c1f8d3265227ff3d98811.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1eff964878fb77a5e9f6fcbb12b7aee1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/209e2cfe0a5312e3b0017b5e95080ec9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/c1af20ea5e9e2791567127e2e07d7f7a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/9373fbc6563e44f347178fd6a563b3da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a5af213651c659ee866f31435426ee11.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a045b86901be13275799f8676f4468ac.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1303a1c4c6b9056e4fde7dde524063e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/679a36b8fc229244071c21c3679b50ec.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/0dbf187d31efdaa930e9cc4047bbd371.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/932e98d1586fd2c702273999000098da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/451bc0668ed9bd00bc699132c17dd9c6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/3c218c7a098fc07c689a9753edb44e78.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/e597b40c2871c1257c7c7ffc870f57f6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a20c215e590e8bed38aacc386c9ecc5f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/fec41465eaebad9f31209ee38ebcdbcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/47a2977c6a28f71f4264b2de40da1432.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z0TB907901</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>283d0ac2f462c8c70a918c5d8114a808</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908152</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3282,72 +3282,6 @@
 		
 		
 		
-	<Id>c122013c4175cedae104cc4737a822c7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908043</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>0397e9344a10c7b4b0db1ad87501db14</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -3394,7 +3328,7 @@
 		
 		
 		
-	<Id>16726d3b2238df2d71bc9b553f3987c4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>c122013c4175cedae104cc4737a822c7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -3410,7 +3344,7 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images>
 			
 			
 			
@@ -3430,75 +3364,7 @@
 			
 			
 			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905949</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>3ba9bafeea174a97f7fe132271fd28bc</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905952</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908043</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3597,7 +3463,7 @@
 		
 		
 		
-	<Id>e4f07c0a339fc8cccf506f2fa9b7a883</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+	<Id>3ba9bafeea174a97f7fe132271fd28bc</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
 Склад более 300 новых авто. 
@@ -3613,7 +3479,73 @@
 
 Подробности акций уточняйте у наших менеджеров 
 
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b7360f64a0737b53d8f7437a43f81245.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/4c098033f2d12735dae6fb77b2577e12.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/bf7b4cce4ddff914b51e2118f50849fb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/71eb1551dcc11c4ccf2a1ae78ee10424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/b59aaa3ab53c8877d8bceccafe704e32.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0410afe2a8f9568613c55f8f7784a4f1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/94320e73094707ecdbda840a73d79e75.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/1ff7e92f65cbc1ababc8abb18e82193c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/a7d9852009f5f661a0491ebb76542441.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bd61b2d7c628755247de873a4ee461b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/5f89e92dbb7737a7840277b38344b7d9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/8ec38f75b345c1175f1868b64d9d700b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/e1cf708f6ffe6df6cfe7cc1eadca0598.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/dd587a533b029654e7fc0af521a7126d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/16ce0c62b481cb4e8951cd7e888603e9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/81296420a979564edbd23e7bb28ecfcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/0a56a427204271e82f83149809df1dd1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/d8c458827256d55e931c103ba5057fd5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z1TB905948/2bf8bebf8cd109261222293c6b560035.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z1TB905952</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>16726d3b2238df2d71bc9b553f3987c4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2479990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>250000</CreditDiscount><InsuranceDiscount /><MaxDiscount>635000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -3635,7 +3567,7 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908153</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/60fad89ac737dfd74f09ed206763af01.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b2b385653714f8fcaf1109822f8cc8a2.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/1f76a57429650a27f6e6307585c93b47.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7b7d884e6c00cd01f2d4945a4e4b790c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/b128591078acffacd66bd801936a48bd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/14ab39371505cd543e8e06a8000d1c45.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d83c1b916994d2f377a3a9bb5e6f70db.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/96f1c19c6e07f708e2ffd551bb98a618.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/ce2a1a573d7b3ba35e3e351b86b01739.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0aa39366e8231b30693bf1fd4fb7e0c9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/35bc145af569332ce37eacdd53fe954f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/7e7e772d69c07cbeff174a1c57ed496e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eabed50fdf16aa6ff0524aa61a94fed1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/e0992fdfd96003050534587461fec099.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/0a9dbb2116167d6750489d28ccfefaae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/eb6f2d290bf3d0900c65cbf7d99b7834.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/8783512a745b4052d7da8eeb08928cdf.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/046c3e1a3bf101b47ec0282bbe759c63.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/877346eabce94bd03ea34108eb5ef424.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/4813201b71f452a6d3b5c41473bff754.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z6TB905945/d006d6ce2b5be09689d5ee8065ea6550.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720816</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2025</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z6TB905949</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3705,6 +3637,74 @@
 			
 			
 		<Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/be07ce16f8109a080d7e286cfb7b0c3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/edb480d2242fbbc5490a8cfe747ed640.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1588fbb5272ade016b232ed8eba910e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/ce142a6dfc488221986a8591a93597f5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/25e7c670b71f85a246cf8a96615d07bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1f3a7ea8812c1f8d3265227ff3d98811.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/1eff964878fb77a5e9f6fcbb12b7aee1.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/209e2cfe0a5312e3b0017b5e95080ec9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/c1af20ea5e9e2791567127e2e07d7f7a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/9373fbc6563e44f347178fd6a563b3da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a5af213651c659ee866f31435426ee11.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a045b86901be13275799f8676f4468ac.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/b1303a1c4c6b9056e4fde7dde524063e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/679a36b8fc229244071c21c3679b50ec.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/0dbf187d31efdaa930e9cc4047bbd371.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/932e98d1586fd2c702273999000098da.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/451bc0668ed9bd00bc699132c17dd9c6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/3c218c7a098fc07c689a9753edb44e78.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/e597b40c2871c1257c7c7ffc870f57f6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/a20c215e590e8bed38aacc386c9ecc5f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/fec41465eaebad9f31209ee38ebcdbcd.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z0TB907898/47a2977c6a28f71f4264b2de40da1432.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z0TB907902</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>e4f07c0a339fc8cccf506f2fa9b7a883</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2690990</Price><TradeinDiscount>140000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount /><MaxDiscount>780000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/e48ec6c6dcbf7db51e9aa39157146d91.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f7a1d74befbc420c8ea20b793a69ed71.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d1ed523c98c3c03014b3cc4308c2d8ca.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/163a7813e6e29f226e39ccb9de110ae4.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/936ee480e4ba0228644e95b1761cfe4b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/480d828f6cb8e95a76333b529f127ada.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/314a7688957950e5108e6a394a5e813f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d9fb7ecfe5c0a0b636d068f1a527be9.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/2ac063d658c9f246a086b9d70e738872.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/3c40aa8ff26e2fb11ebe5cee36e80097.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/726a467072ded74424d5784817af7101.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/b9d6149fb6f4a8d5468aed258ccc0322.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/00b754e8efc9b5a0c3c2a9faf2543c4a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/f0ee5bba807c99d4223c9137e981973c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7d5bdb966207a871b1b241c86300871a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/946488b3d77e7b29cb5ad54e6dce717b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/7760a57d46c2798017413073634ff393.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/85c33a3f3d7bc902863c9572706c5355.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/739f6462ecbd217e45023dd86c62ac3b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/d88a2cdc07cc38875ef48dbc98324378.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908149/832df20d080a9193add470c341e77cdd.jpg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720818</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908153</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4120,6 +4120,52 @@
 		
 		
 		
+	<Id>cf6710eeb1f8a3d9b3104621ee3fe4a9</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB907977</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>a69a692633a57738440cf7ef1ed87264</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -4156,50 +4202,4 @@
 			
 			
 			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908044</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>cf6710eeb1f8a3d9b3104621ee3fe4a9</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 10 ФЕВРАЛЯ в Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. 
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2590990</Price><TradeinDiscount>250000</TradeinDiscount><CreditDiscount>521877</CreditDiscount><InsuranceDiscount /><MaxDiscount>771877</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB907977</VIN><VideoURL /><VideoFileURL /></Ad></Ads>
+		<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/787e7261b0e867dcbf5d5077e59f7023.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/dff6f54600355f660e3e44d68ed843a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ca52afd1ab4cc224463f50b288bcdcb3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1e836160553e97add8c0a704c7b292db.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/662af6050b8f8bfdd49a943a08aa634d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/5eb9ebfe1f34fa2390ccddce31f3b39f.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f15d1d06bd99691b9c80eef9850de782.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1730f2fe67e7c09202fce02bb4efdf65.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/857c6a03290e2ac26f8e0c2e278183ca.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/ee6bbc5d42d45fcb4eaade8de028a87a.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/b40422ff0665515b2d6dcee872922fc9.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/63e66742971c4e99e73c5718481874e3.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/8a7a88985d7b94e9e58ac6fc03659f51.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/f71b96bde9752e45b6f7a97f7ca81f6d.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/00302d2c43376e12c34b3b7b5b31da26.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/784ca59bcc6eb136a37b5a2504b9fadb.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/bd4f2c96212c79250b0c5e5f8d38706c.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/9dd31ed22bd016d6d5737d015a38f794.jpeg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z8TB908040/1391a7810973e44878127b2d1a6aefd9.jpeg" /></Images><Make>Belgee</Make><Model>X50</Model><GenerationId>18720814</GenerationId><ModificationId>18720815</ModificationId><ComplectationId>18720817</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z8TB908044</VIN><VideoURL /><VideoFileURL /></Ad></Ads>
