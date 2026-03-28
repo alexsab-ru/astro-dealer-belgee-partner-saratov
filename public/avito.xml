@@ -1,6 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>0800249e2730988531832b7862c75a71</Id>
+		<Id>cc905b8f96d95917916f33badba4e6aa</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>5 ТО ЗА 1 РУБЛЬ при покупке до 28 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description>
+		<Price>2309990</Price>
+		<TradeinDiscount>120000</TradeinDiscount>
+		<CreditDiscount>80000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Голубой</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>S50</Model>
+		<GenerationId>22428694</GenerationId>
+		<ModificationId>22428700</ModificationId>
+		<ComplectationId>22450018</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8824Z4TB203369</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>0819feb1ddb7d86c1a500b38f5675538</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -39,26 +86,8 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<CreditDiscount />
 		<InsuranceDiscount />
 		<MaxDiscount>100000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/54a548db8db1ee4bb702fc9bbc3455e7.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d1304a98d48ad2f78dd39f6215d7d3f8.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ecf4fea914fe4c308a4275984f39fa22.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/eba60c0df6a2e7b7f36f1e3f8fb4210d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/b49655149b40231d7b2d0f5fb3c1ef4f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/0a1057617818e0fb21c9182e6196f1a0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d40d10395218dcea5d5919a1ad48803d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9840ec68d11cec6cd7420992a5221ba5.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/90966202095b50474aa869cd8979ec7b.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d7f0a99af6488a45f4f137069801681a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3eb8c63a4a91bb69a9112ef8fc8c3124.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9b9249f70de77609a5402379e9e6f11f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/c87b6f4ce7eb87abf3a8730f5fd5bb6a.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3946a2d35bede77eedb6958bc26a677d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ee2f4edad8c10fcc939fb5620d105d5c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/766c51525e36b3f6947c33d16685216c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/34ec12ebf9a0ba5eedc38e50e11cf611.jpg" />
-		</Images>
+		<Color>Серый</Color>
+		<Images />
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
 		<GenerationId>22573975</GenerationId>
@@ -71,7 +100,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z9TB913800</VIN>
+		<VIN>Y4K8622Z3TB914473</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -156,6 +185,86 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<VideoFileURL />
 	</Ad>
 	<Ad>
+		<Id>a89ac723a4d130d6273b909e83f440e8</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’500 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description>
+		<Price>2579990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>380000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" />
+		</Images>
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22060438</ModificationId>
+		<ComplectationId>22060439</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722Z6TB303513</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>fdf98338e5677eaa7d52ac44aef1257b</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -236,7 +345,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>a89ac723a4d130d6273b909e83f440e8</Id>
+		<Id>38ac180e74afc760581cef13c92b7e6c</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -245,7 +354,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
 
  Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
 
@@ -265,53 +374,263 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
+При оплате наличными цена нового автомобиля составит 3’006 т.р
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
-		<Price>2579990</Price>
+		<Price>3006990</Price>
 		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>380000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" />
-			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" />
-		</Images>
+		<MaxDiscount>505000</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images />
 		<Make>Belgee</Make>
 		<Model>X70</Model>
-		<GenerationId>22038108</GenerationId>
-		<ModificationId>22060438</ModificationId>
-		<ComplectationId>22060439</ComplectationId>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22476187</ModificationId>
+		<ComplectationId>22476189</ComplectationId>
 		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
+		<Transmission>Робот</Transmission>
 		<Year>2026</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
+		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>Y4K8722Z6TB303513</VIN>
+		<VIN>Y4K8722D4TB305703</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>542c1b0c0075618597f6ee3a9b34779a</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description>
+		<Price>3006990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>505000</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22476187</ModificationId>
+		<ComplectationId>22476189</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D7TB305629</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>c0f7055948f8c6dc94325ae7325ca88a</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description>
+		<Price>3006990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>505000</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22476187</ModificationId>
+		<ComplectationId>22476189</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D3TB305627</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>76e08478cf41bda304b01f3ff082f571</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description>
+		<Price>3006990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>505000</MaxDiscount>
+		<Color>Серебряный</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22446053</GenerationId>
+		<ModificationId>22476187</ModificationId>
+		<ComplectationId>22476189</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D5TB305628</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>4a12b2ae94b4c888c13f1b919464e9c6</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж +
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’002 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description>
+		<Price>3081990</Price>
+		<TradeinDiscount>80000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>505000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X70</Model>
+		<GenerationId>22038108</GenerationId>
+		<ModificationId>22038113</ModificationId>
+		<ComplectationId>22060429</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8722D5TB305807</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -745,7 +1064,53 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>2e0b5f0d56e001ff7d017334456ea56b</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>69f376fc0cec0821545a87b8196a3e9c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 28 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Голубой</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z4TB203370</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>7f0427d1e9e962ea739682fd47ca3e3d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50 Стиль
@@ -772,25 +1137,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/54a548db8db1ee4bb702fc9bbc3455e7.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d1304a98d48ad2f78dd39f6215d7d3f8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ecf4fea914fe4c308a4275984f39fa22.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/eba60c0df6a2e7b7f36f1e3f8fb4210d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/b49655149b40231d7b2d0f5fb3c1ef4f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/0a1057617818e0fb21c9182e6196f1a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d40d10395218dcea5d5919a1ad48803d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9840ec68d11cec6cd7420992a5221ba5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/90966202095b50474aa869cd8979ec7b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d7f0a99af6488a45f4f137069801681a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3eb8c63a4a91bb69a9112ef8fc8c3124.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9b9249f70de77609a5402379e9e6f11f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/c87b6f4ce7eb87abf3a8730f5fd5bb6a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3946a2d35bede77eedb6958bc26a677d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ee2f4edad8c10fcc939fb5620d105d5c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/766c51525e36b3f6947c33d16685216c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/34ec12ebf9a0ba5eedc38e50e11cf611.jpg" /></Images><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB913801</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z3TB914474</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -899,6 +1246,85 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
+	<Id>85502d6fd0711c04f545f40d34fdb437</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’500 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303514</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>74902978a0c581aee75497e8bed68dd2</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -978,10 +1404,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>85502d6fd0711c04f545f40d34fdb437</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>8f7c9607410bb4c9813971ff9b2e81cc</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
 
  Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
 
@@ -1001,33 +1427,239 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
+При оплате наличными цена нового автомобиля составит 3’006 т.р
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303514</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305704</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>61b0e13d3de045a9a490085fdb7c7a28</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b9760775de9255cd6e0e7d5b40979f4d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305628</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>add5090fa27d07e35f60e19fc9f13bc0</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305629</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>2c2c08481b83c071683eff6deba65618</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж +
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’002 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3081990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22038113</ModificationId><ComplectationId>22060429</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305808</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1451,7 +2083,53 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>7abcfeb603e17d07ed08a01b3c5cb304</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>c94df6cf009a20dad8480952d1312730</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 28 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Голубой</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z4TB203371</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>28a79c3523213d3308ceb2778a866456</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50 Стиль
@@ -1478,25 +2156,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/54a548db8db1ee4bb702fc9bbc3455e7.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d1304a98d48ad2f78dd39f6215d7d3f8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ecf4fea914fe4c308a4275984f39fa22.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/eba60c0df6a2e7b7f36f1e3f8fb4210d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/b49655149b40231d7b2d0f5fb3c1ef4f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/0a1057617818e0fb21c9182e6196f1a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d40d10395218dcea5d5919a1ad48803d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9840ec68d11cec6cd7420992a5221ba5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/90966202095b50474aa869cd8979ec7b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d7f0a99af6488a45f4f137069801681a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3eb8c63a4a91bb69a9112ef8fc8c3124.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9b9249f70de77609a5402379e9e6f11f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/c87b6f4ce7eb87abf3a8730f5fd5bb6a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3946a2d35bede77eedb6958bc26a677d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ee2f4edad8c10fcc939fb5620d105d5c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/766c51525e36b3f6947c33d16685216c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/34ec12ebf9a0ba5eedc38e50e11cf611.jpg" /></Images><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB913802</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z3TB914475</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1605,6 +2265,85 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
+	<Id>5d5603cb210c3627178adc095dc938c3</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’500 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303515</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>78d305192e15efd1389feb1799f3a5cd</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -1684,10 +2423,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>5d5603cb210c3627178adc095dc938c3</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>8665ad2d4abe26c0c5f3814a424fc5f7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
 
  Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
 
@@ -1707,33 +2446,239 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
+При оплате наличными цена нового автомобиля составит 3’006 т.р
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303515</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305705</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>9e8ccc2380883abce7f9b7fa3a3ee784</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>d50c06ffbda7154c773be13b55a195be</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305629</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>e619cd7c8f562d0a09afeb788bd781f3</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>f3cff15817078f8e85efd5167d38bfd4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж +
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’002 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3081990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22038113</ModificationId><ComplectationId>22060429</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305809</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2157,7 +3102,53 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>f50422f7c0e174bc1d3c4539a9c46fe4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>dbd7c18a116e8a24dc1281b6887eb42c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 28 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Голубой</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z4TB203372</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>26f85fd9a7ba69e3e182746bede8200c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50 Стиль
@@ -2184,25 +3175,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/54a548db8db1ee4bb702fc9bbc3455e7.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d1304a98d48ad2f78dd39f6215d7d3f8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ecf4fea914fe4c308a4275984f39fa22.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/eba60c0df6a2e7b7f36f1e3f8fb4210d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/b49655149b40231d7b2d0f5fb3c1ef4f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/0a1057617818e0fb21c9182e6196f1a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d40d10395218dcea5d5919a1ad48803d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9840ec68d11cec6cd7420992a5221ba5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/90966202095b50474aa869cd8979ec7b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d7f0a99af6488a45f4f137069801681a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3eb8c63a4a91bb69a9112ef8fc8c3124.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9b9249f70de77609a5402379e9e6f11f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/c87b6f4ce7eb87abf3a8730f5fd5bb6a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3946a2d35bede77eedb6958bc26a677d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ee2f4edad8c10fcc939fb5620d105d5c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/766c51525e36b3f6947c33d16685216c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/34ec12ebf9a0ba5eedc38e50e11cf611.jpg" /></Images><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB913803</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z3TB914476</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2311,6 +3284,85 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
+	<Id>c86e81b8e246e11844b970d8a398799c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’500 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303516</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>b4aa0cbfc83beb410a8783d6c60922ca</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -2390,10 +3442,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>c86e81b8e246e11844b970d8a398799c</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>e33879307a750c2a3fe527b906da79cf</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
 
  Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
 
@@ -2413,33 +3465,239 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
+При оплате наличными цена нового автомобиля составит 3’006 т.р
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303516</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305706</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>0cd786321a18b544437cbb4254f0225f</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305632</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b6f51d195e38bf22ad9818fb22e9ca5e</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>53cc1c51ad99f2d83e0a9ea8043cee53</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>67e0bc8d0c7c59c6e6dfc83cbc59e410</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж +
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’002 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3081990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22038113</ModificationId><ComplectationId>22060429</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305810</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2863,7 +4121,53 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>100ea3c176fee52204bc505782bc3027</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>219b3fa227bfbdf619ffcf208dc7cb6d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>5 ТО ЗА 1 РУБЛЬ при покупке до 28 ФЕВРАЛЯ в Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. 
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.02.2026 г. по 28.02.2026г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Голубой</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z4TB203373</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>041ca25a20a1b9a808158ec675ce074a</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50 Стиль
@@ -2890,25 +4194,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/54a548db8db1ee4bb702fc9bbc3455e7.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d1304a98d48ad2f78dd39f6215d7d3f8.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ecf4fea914fe4c308a4275984f39fa22.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/eba60c0df6a2e7b7f36f1e3f8fb4210d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/b49655149b40231d7b2d0f5fb3c1ef4f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/0a1057617818e0fb21c9182e6196f1a0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d40d10395218dcea5d5919a1ad48803d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9840ec68d11cec6cd7420992a5221ba5.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/90966202095b50474aa869cd8979ec7b.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/d7f0a99af6488a45f4f137069801681a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3eb8c63a4a91bb69a9112ef8fc8c3124.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/9b9249f70de77609a5402379e9e6f11f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/c87b6f4ce7eb87abf3a8730f5fd5bb6a.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/3946a2d35bede77eedb6958bc26a677d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/ee2f4edad8c10fcc939fb5620d105d5c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/766c51525e36b3f6947c33d16685216c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8622Z9TB913800/34ec12ebf9a0ba5eedc38e50e11cf611.jpg" /></Images><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB913804</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z3TB914477</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3017,6 +4303,85 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
+	<Id>72004a0423443d1a10c53ab60d7d756d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’500 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303517</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	<Id>969c347a22db233e92c68eddfdbc67b0</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -3096,10 +4461,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>72004a0423443d1a10c53ab60d7d756d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+	<Id>a5d8ea27d7efeb35372484c644d3cbc4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Актив
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
 
  Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
 
@@ -3119,33 +4484,239 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
 Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
+При оплате наличными цена нового автомобиля составит 3’006 т.р
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3d34fbfdd80511428594964eb03d4a20.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2412ae6436f0f5927851f5fb9a895ae.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/a3aa332611fa2b83179c8b3a0e8ac252.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/8c3246d62eafbff80e455caf1ab6ad9c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/b36a1f3a3dca7dd3fba53abdca08bd89.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/df3683fc2968a8678280d47cede1a8c3.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/84854717a357586e720184f0d028265d.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/6b81a55782dd5460bf23561c93644bc6.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/5e8b243005d77f3d66dc981612df6860.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/87adf1371a014ffea0c775c477c5ff19.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4392ef61bc358f7d54110b8def2d9144.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/835601925207501ce83110b9f9350bdc.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/664ce20005eba492464852736256452f.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/4e3238b9e6e4ad329c7cdafd2484164c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/3fb26f2e136399cce6b9e7bb731cfb7c.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/48837cadd6d452f1e5bd9fc98482c121.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d2ee675ac7c6501764c380b2d2fc77bb.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/dd03607106a43fbdf3a2ce8cd48bdca0.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/cf495a32d3f6951627a66223c23a87aa.jpg" /><Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/d5323640b9affc52e8e13952c2e210c2.jpg" /></Images><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22060438</ModificationId><ComplectationId>22060439</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722Z6TB303517</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305707</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>2356ebc948a955ddf62fbe4c5b70bea2</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305633</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>39f64e75ce37bb1a93a77062585cd567</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>38582cb360dd5dc4fdf39e6fe775a87a</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’006 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305632</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>c1c07b7aea8348f3bcac1cb2035661e6</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х70 Престиж +
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 80 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 3’002 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>3081990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22038108</GenerationId><ModificationId>22038113</ModificationId><ComplectationId>22060429</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305811</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
