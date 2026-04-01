@@ -175,10 +175,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>2675990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>100000</MaxDiscount>
+		<MaxDiscount />
 		<Color>Серый</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -233,10 +233,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>2579990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>380000</MaxDiscount>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722Z5TB303633/5f9d5269ad7bfc9704d62a1517dd3564.jpg" />
@@ -313,10 +313,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>2579990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>380000</MaxDiscount>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303544/f9b8bc9e346cefab6ca076c49684de19.jpg" />
@@ -393,10 +393,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>2579990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>380000</MaxDiscount>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722Z6TB303513/49d1ae0b5ab710cd0ba42402358f1c7e.jpg" />
@@ -473,10 +473,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>3006990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -531,10 +531,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>3006990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -589,10 +589,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>3006990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -647,10 +647,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>3006990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -1206,7 +1206,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913161</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2675990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913161</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1263,7 +1263,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -1342,7 +1342,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -1421,7 +1421,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -1500,7 +1500,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305704</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305704</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1557,7 +1557,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305629</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305629</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1614,7 +1614,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305628</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305628</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1671,7 +1671,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2203,7 +2203,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913162</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2675990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913162</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2260,7 +2260,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -2339,7 +2339,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -2418,7 +2418,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -2497,7 +2497,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305705</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305705</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2554,7 +2554,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2611,7 +2611,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305629</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305629</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2668,7 +2668,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3200,7 +3200,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913163</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2675990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913163</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3257,7 +3257,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -3336,7 +3336,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -3415,7 +3415,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -3494,7 +3494,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305706</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305706</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3551,7 +3551,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3608,7 +3608,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305630</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -3665,7 +3665,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305632</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305632</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4197,7 +4197,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913164</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>2675990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount /><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB913164</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4254,7 +4254,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -4333,7 +4333,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -4412,7 +4412,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2579990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>380000</MaxDiscount><Color>Белый</Color><Images>
+Возможен торг.</Description><Price>2579990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Белый</Color><Images>
 			
 			
 			
@@ -4491,7 +4491,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305707</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D4TB305707</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4548,7 +4548,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305632</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D5TB305632</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4605,7 +4605,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D3TB305631</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -4662,7 +4662,7 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>3006990</Price><TradeinDiscount>80000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>505000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305633</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+Возможен торг.</Description><Price>3006990</Price><TradeinDiscount /><CreditDiscount /><InsuranceDiscount /><MaxDiscount>425000</MaxDiscount><Color>Серебряный</Color><Images /><Make>Belgee</Make><Model>X70</Model><GenerationId>22446053</GenerationId><ModificationId>22476187</ModificationId><ComplectationId>22476189</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>Y4K8722D7TB305633</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
