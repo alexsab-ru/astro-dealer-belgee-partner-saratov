@@ -1,63 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
-		<Id>01323cae474f8cc37c1ee8e57d310f1e</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’310 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description>
-		<Price>2309990</Price>
-		<TradeinDiscount>120000</TradeinDiscount>
-		<CreditDiscount>80000</CreditDiscount>
-		<InsuranceDiscount />
-		<MaxDiscount>300000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>S50</Model>
-		<GenerationId>22428694</GenerationId>
-		<ModificationId>22428700</ModificationId>
-		<ComplectationId>22450018</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>4</Doors>
-		<BodyType>Седан</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8824Z9TB206378</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>1e8c124d1fd69832e0f6f4d4d286f06c</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -112,6 +54,64 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8824Z0TB206382</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
+		<Id>01323cae474f8cc37c1ee8e57d310f1e</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’310 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description>
+		<Price>2309990</Price>
+		<TradeinDiscount>120000</TradeinDiscount>
+		<CreditDiscount>80000</CreditDiscount>
+		<InsuranceDiscount />
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Серый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>S50</Model>
+		<GenerationId>22428694</GenerationId>
+		<ModificationId>22428700</ModificationId>
+		<ComplectationId>22450018</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8824Z9TB206378</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -274,64 +274,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>c651f00102f1ad25c3d2e29d9361a09c</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Пpeстиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’670 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description>
-		<Price>2675990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>100000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22573977</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z2TB920779</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>de664983bdba3f4919bc8e30ac9c7a74</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -386,64 +328,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>Y4K8622Z9TB920567</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
-		<Id>eeb39273de46cbfea11cf34ea2d3efbd</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Стиль
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
-Без кредита цена на новый автомобиль увеличится на 125 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description>
-		<Price>2505990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>100000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22574454</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622ZXTB920206</VIN>
 		<VideoURL />
 		<VideoFileURL />
 	</Ad>
@@ -677,63 +561,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>7440ffebebacbe097e07f056b2868ece</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’310 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206379</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>488f5aefee3953365fe055470bb14679</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -762,6 +589,63 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z0TB206383</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>7440ffebebacbe097e07f056b2868ece</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’310 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206379</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -947,63 +831,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>3f6b8f1903390e41bd0f4b99033fd6ba</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Пpeстиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’670 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB920780</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>e60d735d10de6db721d8e98b15539228</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -1032,63 +859,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB920568</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>b492a15ef6a4f7277509ec00b397d4e1</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Стиль
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
-Без кредита цена на новый автомобиль увеличится на 125 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Черный</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB920207</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1315,63 +1085,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>b836fe97ba3a37eb157a84c4a28008fb</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’310 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206380</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>635f2be4dedd4e30ae641dce5cd5dd66</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -1400,6 +1113,63 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z0TB206384</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>b836fe97ba3a37eb157a84c4a28008fb</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’310 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206380</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1585,63 +1355,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>e8d92b4bdd901185942dca09c2706205</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Пpeстиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’670 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB920781</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>674ecf51be4cd842ba88979b960cc5af</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -1670,63 +1383,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB920569</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>676dbf5b1d9d11e7f73ebd8fdc107db7</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Стиль
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
-Без кредита цена на новый автомобиль увеличится на 125 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Черный</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB920208</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -1953,63 +1609,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>c7b7a9982f52b5e8c4611ad5e9c382f8</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’310 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206381</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>3120e9473b1a1b1cdb533517ed0e8ed4</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -2038,6 +1637,63 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z0TB206385</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>c7b7a9982f52b5e8c4611ad5e9c382f8</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’310 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206381</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2223,63 +1879,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>d4d167b2c1354ea51f87bd02de26928d</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Пpeстиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’670 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB920782</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>615b84aa01ded2932e4d5a052849e4d2</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -2308,63 +1907,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB920570</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>f9afe8cb3b3d44b450d3b350dbcbbd1f</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Стиль
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
-Без кредита цена на новый автомобиль увеличится на 125 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Черный</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB920209</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2591,63 +2133,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>9fdbc5d9f1e873a7a1fb0e041c09a8b9</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’310 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206382</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>ab8bbc296228a265d986f1cc17ace656</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -2676,6 +2161,63 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z0TB206386</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>9fdbc5d9f1e873a7a1fb0e041c09a8b9</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE S50 Престиж
+
+ Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’310 т.р
+
+
+Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
+Возможен торг.</Description><Price>2309990</Price><TradeinDiscount>120000</TradeinDiscount><CreditDiscount>80000</CreditDiscount><InsuranceDiscount /><MaxDiscount>300000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>S50</Model><GenerationId>22428694</GenerationId><ModificationId>22428700</ModificationId><ComplectationId>22450018</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2026</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8824Z9TB206382</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
@@ -2861,63 +2403,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		
 		
 		
-	<Id>66487c2348a871587c3f916a1dab52a0</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Пpeстиж
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита цена на новый автомобиль увеличится на 425 т.р.
-При оплате наличными цена нового автомобиля составит 2’670 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z2TB920783</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	<Id>df5df77fa0626c07c67bc0e3d8877e40</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
 
 Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
@@ -2946,63 +2431,6 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description><Price>2675990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Серый</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22573977</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622Z9TB920571</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<Id>92546573b79a8037375cda6a39ebcdf0</Id><Address>Саратов, Усть-Курдюмское шоссе, 23</Address><CarType>Новые</CarType><Availability>в наличии</Availability><OnlyOnAvito>Нет</OnlyOnAvito><Category>Автомобили</Category><Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
-
-Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
-Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Стиль
-
- Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
-
-ГАPAНТИЯ
-⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
-Без кредита цена на новый автомобиль увеличится на 125 т.р.
-При оплате наличными цена нового автомобиля составит 2’500 т.р
-
-
-Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
-Возможен торг.</Description><Price>2505990</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount /><InsuranceDiscount /><MaxDiscount>100000</MaxDiscount><Color>Черный</Color><Images /><Make>Belgee</Make><Model>X50+</Model><GenerationId>22573975</GenerationId><ModificationId>22573976</ModificationId><ComplectationId>22574454</ComplectationId><FuelType>Бензин</FuelType><Transmission>Робот</Transmission><Year>2026</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>Y4K8622ZXTB920210</VIN><VideoURL /><VideoFileURL /></Ad><Ad>
 		
 		
 		
