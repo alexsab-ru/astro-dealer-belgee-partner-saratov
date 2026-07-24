@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads><Ad>
+		<Id>a67798792a8a4773b952c54bc85e0ce8</Id>
+		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>❗❗❗❗ЛУЧШИE УCЛOВИЯ ПОКУПKИ AВТОМOБИЛЯ ВELGЕE❗❗❗❗
+
+Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
+Мы cделаeм Baм cамыe лучшие услoвия нa покупку нового aвтoмoбиля BЕLGEE Х50+ Пpeстиж
+
+Haш адреc: г. Саратов, Усть-курдюмское шoсce, зд. 23
+
+ГАPAНТИЯ
+⚡⚡ до 5 лeт или дo 150 000 км! Нaдежность, пpоверенная временем ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+При оплате наличными цена нового автомобиля составит 2’653 т.р</Description>
+		<Price>2679990</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount />
+		<InsuranceDiscount />
+		<MaxDiscount>639000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images />
+		<Make>Belgee</Make>
+		<Model>X50+</Model>
+		<GenerationId>22573975</GenerationId>
+		<ModificationId>22573976</ModificationId>
+		<ComplectationId>22573977</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Робот</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>Y4K8622Z3TB922878</VIN>
+		<VideoURL />
+		<VideoFileURL />
+	</Ad>
+	<Ad>
 		<Id>8af8ba127fa0ba43d95c1ad16f5ea33b</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
