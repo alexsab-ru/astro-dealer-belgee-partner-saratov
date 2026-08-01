@@ -1469,10 +1469,10 @@
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>3009990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -1612,10 +1612,10 @@
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>3085990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Синий</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D6TB311664/d7a6d8525e56dbb2431b7443451492e3.jpg" />
@@ -1777,10 +1777,10 @@
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>3085990</Price>
-		<TradeinDiscount>80000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>505000</MaxDiscount>
+		<MaxDiscount>425000</MaxDiscount>
 		<Color>Синий</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D7TB311706/0d6b38269b128048b759208c41d468b3.jpg" />
