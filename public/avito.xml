@@ -286,149 +286,6 @@
 		<VideoFileURL />
 	</Ad>
 	<Ad>
-		<Id>a6da3c26b7a06a604219f8e66b4cc6d4</Id>
-		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Партнер-Авто Саратов официальный дилер BELGEE в Саратове!
-
-
-
- Наш адрес: Саратов, Усть-Курдюмское шоссе, зд. 23
-
-
-
-Услуги сервисного центра:
-
-⚡ сервисное обслуживание
-
-⚡ «шинный отель» 
-
-⚡ установка дополнительного оборудования и аксессуаров
-
-⚡ предоставляется гарантия качества 
-
-
-
-Услуги отдела продаж: 
-
-⚡ обмен Вашего автомобиля с пробегом на новый
-
-⚡ разнообразные маршруты пробной поездки на тестовых автомобилях
-
-
-
-Предоставляем нашим клиентам следующие возможности:
-
-⚡ приобрести автомобиль в Кредит или в Лизинг
-
-⚡ заключить договоры Страхования
-
-
-
- Позвоните прямо сейчас и получите индивидуальные условия приобретения 
-
-❗Комфорт с гарантией качества до 5 лет или до 150 000 км ❗
-
-
-
-
-
-Указанная цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования, заключения договора страхования КАСКО и обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-
-
-
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-
-срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-
-перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-
-стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-
-
-В выше указанных расчетах стоимости автомобиля учтен следующий список дополнительного оборудования и аксессуаров:
-
-- защита картера двигателя
-
-- защитная сетка радиатора
-
-- коврики
-
-- брызговики
-
-- подкрылки
-
-- регистратор с картой памяти
-
-- полная антикоррозионная обработка арок и дна автомобиля
-
-- сигнализация с автозапуском и управлением со смартфона
-
-❗❗ Список опций можно менять по согласованию с продавцом-консультантом ❗❗ 
-
-
-
-
-
-
-
-
-
-Выгоды:
-
-1. При покупке указанного дополнительного оборудования цена на новый автомобиль уменьшится на 160 т.р.(зависит от перечня приобретаемого дополнительного оборудования и аксессуаров).
-
-2. При сдаче автомобиля с пробегом цена на новый автомобиль уменьшится на 425 т.р. — (размер уменьшения зависит от срока владения, марки автомобиля с пробегом, его комплектации, года выпуска и технического состояния).
-
-3. При покупке полиса КАСКО цена на новый автомобиль в договоре уменьшится на 30 т.р. (размер уменьшения зависит от стоимости полиса, возраста и стажа допущенных к управлению водителей).
-
-
-
-
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
-		<Price>2679990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount />
-		<InsuranceDiscount />
-		<MaxDiscount>639000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images />
-		<Make>Belgee</Make>
-		<Model>X50+</Model>
-		<GenerationId>22573975</GenerationId>
-		<ModificationId>22573976</ModificationId>
-		<ComplectationId>22573977</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Робот</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>Y4K8622Z5TB929637</VIN>
-		<VideoURL />
-		<VideoFileURL />
-	</Ad>
-	<Ad>
 		<Id>21357a11ec9f2ad3e156feb742e63005</Id>
 		<Address>Саратов, Усть-Курдюмское шоссе, 23</Address>
 		<CarType>Новые</CarType>
@@ -2240,7 +2097,28 @@
 		<InsuranceDiscount />
 		<MaxDiscount>180000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/80ac9446e06ae01a4acbd9a10f5a587e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/15a2abbef0398a8c6aeb09b84da75870.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/cce57bb4b71c8f1351720aaa1a11ca2b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/393a24e483c71200161b308a389a7310.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/115c189581b871346d1ee2be361c3e09.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/25ec14e495f4e45e6b3c8de899e0b34c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/30dc55de54b9742dab2bdd08b0c3f5c3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/2e0f98a4409acccb0b5a09377fe992ae.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/1bd1554461f4f70874cf82eab7788a66.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/2d381c9cdd4ff83df37ed29037acf1af.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/dae3c12924a16917f33d81368ff989a3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/f83b55c017b550f9626397252e890ed9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/c329a1c13fb2ceb84cbdc4f39ff69bce.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/c4e5ca6e3520d9919bc7f72da7663ea4.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/a63d93324918c7884d0a0cbd878b0701.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/04e318f413cb770b80c2a57b810a751c.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/ecc26e3886b8925dc11ae7e621c3c694.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/d37a318646b9e6b677be33288e25664a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/f9bad4a346f4b622b34d5f32f85f5985.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722D9TB312792/ca9a6e0eafddc2e4b7b3034ef89d9b36.jpg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22446053</GenerationId>
@@ -2383,7 +2261,28 @@
 		<InsuranceDiscount />
 		<MaxDiscount>180000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/5ebdd6a28e85ef6396b909e6829bb43e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/35d5b8f70a0ca127f7cc2c562286729d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/afe0fa4a3a432deaa17304b8c36d257d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/e1a1c3a47b8856fc7926e4c28b93d6f3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/782e5b2235dd4eb2f4ab67b52f4ea086.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/cc7266fb34f0d43b3186b827923897df.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/3e5663b471655ba6e648459cc5a1cb4d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/1af66512a464d788ef8e161fd1a66240.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/7ac2039e8a3f7f5802f0bcc5a43b8c1d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/1112029ac289a3f66b4264fa6f599351.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/e8b56da2ef29bab524fd37e5834710db.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/7723aa49570af1f994dc19b5f66a4554.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/93ce030f979afa5b76b9593b30bd42f3.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/698623d6161bbc8f953dbd303bbf87dd.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/5a6d9f071c7134a6961124ecdc0d6425.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/19bfebf9362d83dc30c59260d84c547d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/1cae0986a186acd4b1df547953ceab1f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/1d976cedc0e5ed9c44943f5ad587a708.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/76c29798578e0aa7b3ba385d51bf93e2.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722DXTB312767/480992b112ab5eadd6913a78a8988497.jpg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22446053</GenerationId>
