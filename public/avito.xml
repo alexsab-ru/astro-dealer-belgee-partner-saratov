@@ -35,10 +35,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>2319990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>100000</MaxDiscount>
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -179,10 +179,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>2779990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>100000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB935960/2b28f62c44aa7a50043d9b866f2fa5ed.jpg" />
@@ -344,10 +344,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>2779990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount />
+		<MaxDiscount>100000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB936015/dc5abf49107e03647898dd6630ca4e5f.jpg" />
