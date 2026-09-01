@@ -35,10 +35,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 Купить Веlgее в Саратове , Купить Белджи в Саратове, Купить Белжи в Саратове
 Возможен торг.</Description>
 		<Price>2319990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>100000</MaxDiscount>
+		<MaxDiscount />
 		<Color>Серебряный</Color>
 		<Images />
 		<Make>Belgee</Make>
@@ -179,10 +179,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>2779990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>100000</MaxDiscount>
+		<MaxDiscount />
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z9TB935960/2b28f62c44aa7a50043d9b866f2fa5ed.jpg" />
@@ -344,10 +344,10 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>2779990</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
+		<TradeinDiscount />
 		<CreditDiscount />
 		<InsuranceDiscount />
-		<MaxDiscount>100000</MaxDiscount>
+		<MaxDiscount />
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8622Z6TB936015/dc5abf49107e03647898dd6630ca4e5f.jpg" />
@@ -2627,7 +2627,26 @@ Oфициaльный дилеp ВELGEE - Пapтнep-Авто Саратов
 		<InsuranceDiscount />
 		<MaxDiscount>330000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/6a2c456f260bab5a53d70fb1bd2cbc96.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/13fe1656fc1f67d30a851b61b70ef890.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/616c5a6e72141e61af99b08706b1ddaf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/aa9eb86d7014ce94f1859a531d60a394.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/28ff9de0d4081e63a7fd6f88dffb2a95.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/b0b374c4494ed62b84bce83180b1ae23.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/392ad31140671ba3d1312ce553689ca9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/74287eda0d1f7f9fa520548993b17e26.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/7d1d3f16fab2ee77a949c3dcb3fb8bc9.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/c5b88a40c5060054f9ee805a2b1e32eb.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/e6e64422eb0d26f57d3da9476fc552ba.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/e90ff1722f028ccb532d538de099e6bc.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/54b69078a2455aaa2c54d97bb9108d06.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/c511f08a52d51dca8bfdf29cc93a66be.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/8c1570849bf1743e28aeb67f5f96145a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/ca477d2c6065466f2aa915d0943977cf.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/9cd74b619b523dbf25c87d2da50bfdc5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8722Z9TB313887/a0155c20d1165fc7600eeeebe189783d.jpg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X70</Model>
 		<GenerationId>22038108</GenerationId>
