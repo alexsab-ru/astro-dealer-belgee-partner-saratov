@@ -621,7 +621,28 @@
 		<InsuranceDiscount />
 		<MaxDiscount>100000</MaxDiscount>
 		<Color>Черный</Color>
-		<Images />
+		<Images>
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/b9abe6082237efe61b4127edd42a7f05.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/8ed2632b37d18ed57864d6a997dc776a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/a3269f343a7e69b6b76a95220c9cb54b.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/24bc6a48770b2c1a027ff3a79a3e3403.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/c09ffa096254de9dd88d4bd0e8485264.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/903f1517e96ac8325b77ffc6f1da610e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/1f61d3d74c2d2c65428d64ec6ebcc98a.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/e76571cd5cdad13a4fba2900a5ea0cb5.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/088f628d6cf83af744a7587b409cbee1.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/d216a3735029de10d8274d8aab578d72.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/6799c3e0f285d220647a4df375b4f3db.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/a2a4c4f2c2c5c12a75ce3a8962d91a40.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/d6787dc95c645ed7a7621204e2f79760.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/d6b7692c2173a5af5a78fddf530bb18f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/24896afe8e757beceabea206035fa36d.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/947c3e6fe95e6c8274b26fd0e673a55e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/5e2ea644aa43c53f8798f75fdf1c145f.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/7537a0c1bbcc880227dae2f3c5905e95.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/6f210a5463a165da995261b4d453602e.jpg" />
+			<Image url="https://photo.toyotasever.ru/Y4K8622Z8TB940843/1e879b0ef6c7a516cd62edb693dc9013.jpg" />
+		</Images>
 		<Make>Belgee</Make>
 		<Model>X50+</Model>
 		<GenerationId>22573975</GenerationId>
