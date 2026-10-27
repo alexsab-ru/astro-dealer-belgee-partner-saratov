@@ -383,6 +383,30 @@
       </images>
     </car>
     <car>
+      <unique_id>Y4K8622ZXTB944540</unique_id>
+      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622ZXTB944540</vin>
+      <price>2699990</price>
+      <sale_price>2010990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>689000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/0/full.webp?v=b449ba0af569</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/1/full.webp?v=a3350894f299</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/2/full.webp?v=e18fd118e01e</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/3/full.webp?v=82793d6c0be1</image>
+        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/4/full.webp?v=3c679a59f488</image>
+      </images>
+    </car>
+    <car>
       <unique_id>Y4K8722D2TB315873</unique_id>
       <url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-4wd-dct-177-hp-prestige-plus-blue-2026/</url>
       <mark_id>Belgee</mark_id>
