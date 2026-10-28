@@ -383,34 +383,6 @@
       </images>
     </car>
     <car>
-      <unique_id>Y4K8622ZXTB944540</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622ZXTB944540</vin>
-      <price>2699990</price>
-      <sale_price>2010990</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>689000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/0/full.webp?v=b449ba0af569</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/1/full.webp?v=a3350894f299</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/2/full.webp?v=e18fd118e01e</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/3/full.webp?v=82793d6c0be1</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/4/full.webp?v=3c679a59f488</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/5/full.webp?v=d2f762d387a5</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/6/full.webp?v=36db98a26f2e</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/7/full.webp?v=87c97f735290</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/8/full.webp?v=9c88d9e9dd82</image>
-      </images>
-    </car>
-    <car>
       <unique_id>Y4K8722D2TB315873</unique_id>
       <url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-4wd-dct-177-hp-prestige-plus-blue-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -487,45 +459,6 @@
         <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D5TB316841/18/full.webp?v=b31ec38ed04a</image>
         <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D5TB316841/19/full.webp?v=e331f7dd0bb9</image>
         <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D5TB316841/20/full.webp?v=af746a3ee0d0</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Y4K8722D6TB316718</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x70-15-4wd-dct-177-hp-prestige-plus-blue-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X70</folder_id>
-      <year>2026</year>
-      <vin>Y4K8722D6TB316718</vin>
-      <price>3115990</price>
-      <sale_price>2460990</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>655000</max_benefit>
-      <color>синий</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X70, Prestige+, 1.5 4WD DCT (177 л.с.), 2026 г., синий</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/0/full.webp?v=75f1d28baa53</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/1/full.webp?v=5b5b1902e199</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/2/full.webp?v=8844b4ebfcb2</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/3/full.webp?v=1b1309361896</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/4/full.webp?v=eb12168f430a</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/5/full.webp?v=1cef79a7e9b9</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/6/full.webp?v=51e481b660e5</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/7/full.webp?v=c7f22807e4cb</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/8/full.webp?v=704b7c9026df</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/9/full.webp?v=4f36cc27522e</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/10/full.webp?v=050d9c6c09d0</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/11/full.webp?v=47432ebb0d5c</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/12/full.webp?v=5fc809c8f6ff</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/13/full.webp?v=989f69daf737</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/14/full.webp?v=4a4a62b3ec5d</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/15/full.webp?v=f931540eeb5e</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/16/full.webp?v=f8282b954faf</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/17/full.webp?v=8cd8acd92099</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/18/full.webp?v=21acc333c268</image>
-        <image>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/19/full.webp?v=c8c2d48de564</image>
       </images>
     </car>
     <car>

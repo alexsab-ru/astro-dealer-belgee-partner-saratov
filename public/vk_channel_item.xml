@@ -242,30 +242,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8622ZXTB944540</id>
-    <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8622ZXTB944540/0/full.webp?v=b449ba0af569</image_link>
-    <price>2699990 RUB</price>
-    <sale_price>2010990 RUB</sale_price>
-    <min_price>2010990 RUB</min_price>
-    <max_price>2699990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622ZXTB944540</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8722D2TB315873</id>
     <link>https://belgee-partner-saratov.ru/cars/belgee-x70-15-4wd-dct-177-hp-prestige-plus-blue-2026/</link>
     <brand>Belgee</brand>
@@ -310,30 +286,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>Y4K8722D5TB316841</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>Y4K8722D6TB316718</id>
-    <link>https://belgee-partner-saratov.ru/cars/belgee-x70-15-4wd-dct-177-hp-prestige-plus-blue-2026/</link>
-    <brand>Belgee</brand>
-    <model>X70</model>
-    <year>2026</year>
-    <title>Belgee X70 Prestige+ 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB316718/0/full.webp?v=75f1d28baa53</image_link>
-    <price>3115990 RUB</price>
-    <sale_price>2460990 RUB</sale_price>
-    <min_price>2460990 RUB</min_price>
-    <max_price>3115990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X70, Prestige+, 1.5 4WD DCT (177 л.с.), 2026 г.</description>
-    <exterior_color>Синий</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8722D6TB316718</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
