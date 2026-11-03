@@ -118,10 +118,10 @@
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>2069990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>120000</TradeinDiscount>
 		<CreditDiscount>120000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>220000</MaxDiscount>
+		<MaxDiscount>340000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8824Z5TB207396/8cf25290f204c9288a5f8e728727d948.jpg" />
@@ -2405,10 +2405,10 @@
 
 ☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</Description>
 		<Price>3115990</Price>
-		<TradeinDiscount />
+		<TradeinDiscount>80000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount />
-		<MaxDiscount>575000</MaxDiscount>
+		<MaxDiscount>655000</MaxDiscount>
 		<Color>Синий</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/Y4K8722D2TB315873/e4d4098285c60ba20f3f642cd089eaf5.jpg" />
