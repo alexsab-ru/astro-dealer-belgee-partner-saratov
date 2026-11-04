@@ -26,6 +26,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB934275/5/full.webp?v=015aa5e2e0cc</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB934275/6/full.webp?v=b3fa89a83e25</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB934275/7/full.webp?v=e20646fdae55</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB934275/8/full.webp?v=8d5991560f88</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB934275/9/full.webp?v=0ff49e02d795</image>
       </images>
     </car>
     <car>
@@ -53,6 +55,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB944109/5/full.webp?v=86bb77631a03</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB944109/6/full.webp?v=8018e3181b54</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB944109/7/full.webp?v=917e28a3b409</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB944109/8/full.webp?v=a4fa9a290678</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z0TB944109/9/full.webp?v=3921cbdc08fd</image>
       </images>
     </car>
     <car>
@@ -80,6 +84,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB944064/5/full.webp?v=7b307f0922a3</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB944064/6/full.webp?v=494b40e1bb5a</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB944064/7/full.webp?v=a89918464abd</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB944064/8/full.webp?v=8df80e23bd40</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB944064/9/full.webp?v=1670f482b9b6</image>
       </images>
     </car>
     <car>
@@ -105,33 +111,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB946252/3/full.webp?v=73f6aadcf885</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB946252/4/full.webp?v=269da22b1a47</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB946252/5/full.webp?v=749c3c5ce347</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>Y4K8622Z5TB936233</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-style-white-2026/</url>
-      <mark_id>Belgee</mark_id>
-      <folder_id>X50+</folder_id>
-      <year>2026</year>
-      <vin>Y4K8622Z5TB936233</vin>
-      <price>2319990</price>
-      <sale_price>2219990</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>100000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/0/full.webp?v=433c8b25eb51</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/1/full.webp?v=251583536203</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/2/full.webp?v=720d75385eb1</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/3/full.webp?v=7019a06c89e2</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/4/full.webp?v=c18b478a35fe</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/5/full.webp?v=142faf1f440a</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/7/full.webp?v=911aaac2bd15</image>
-        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z5TB936233/8/full.webp?v=cd3192cade12</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB946252/6/full.webp?v=9a183c2fb7a0</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB946252/7/full.webp?v=12d24d6f280c</image>
       </images>
     </car>
     <car>
@@ -159,6 +140,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z6TB936225/5/full.webp?v=0a6807229ee3</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z6TB936225/6/full.webp?v=db4bd0883f9f</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z6TB936225/7/full.webp?v=b41d21378128</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z6TB936225/8/full.webp?v=c958780a002b</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z6TB936225/9/full.webp?v=60c18cd28ed6</image>
       </images>
     </car>
     <car>
@@ -186,6 +169,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z7TB940882/5/full.webp?v=de1d057c45be</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z7TB940882/6/full.webp?v=a40a6c64e72e</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z7TB940882/7/full.webp?v=6f7ab3064612</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z7TB940882/8/full.webp?v=cf75d5bb52a7</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z7TB940882/9/full.webp?v=f4d054859c8e</image>
       </images>
     </car>
     <car>
@@ -213,6 +198,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB942771/5/full.webp?v=3d88ea735d53</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB942771/6/full.webp?v=81a52f75e776</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB942771/7/full.webp?v=62c9ce3a3d6c</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB942771/8/full.webp?v=d23d9d243cd1</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB942771/9/full.webp?v=c7fe51cf174f</image>
       </images>
     </car>
     <car>
@@ -240,6 +227,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z9TB935960/5/full.webp?v=859c81f70f3f</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z9TB935960/6/full.webp?v=0f5460a44416</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z9TB935960/7/full.webp?v=2f915ee7ecdb</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z9TB935960/8/full.webp?v=dd68f178f304</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z9TB935960/9/full.webp?v=aa23b170f126</image>
       </images>
     </car>
     <car>
@@ -267,6 +256,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB315873/5/full.webp?v=eee88381c658</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB315873/6/full.webp?v=3e6138582d90</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB315873/7/full.webp?v=01d8f4ada7c9</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB315873/8/full.webp?v=231530902fb6</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB315873/9/full.webp?v=e9e8a806c176</image>
       </images>
     </car>
     <car>
@@ -292,6 +283,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB316778/3/full.webp?v=9d082b82ae0c</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB316778/4/full.webp?v=88691ed440aa</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB316778/5/full.webp?v=2cb126e6b0db</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB316778/6/full.webp?v=d3da87125903</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D2TB316778/7/full.webp?v=f475b5365cf0</image>
       </images>
     </car>
     <car>
@@ -317,6 +310,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB318520/3/full.webp?v=b4bf62e68f1b</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB318520/4/full.webp?v=ce1c6b4dda4e</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB318520/5/full.webp?v=c152ea801b9c</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB318520/6/full.webp?v=bfe3aa30b8a3</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722D6TB318520/7/full.webp?v=34ae4ddeb92c</image>
       </images>
     </car>
     <car>
@@ -344,6 +339,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z2TB316338/5/full.webp?v=51e97afa4771</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z2TB316338/6/full.webp?v=0fa9705a26a3</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z2TB316338/7/full.webp?v=45583983ab2a</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z2TB316338/8/full.webp?v=1592a6941832</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z2TB316338/9/full.webp?v=bc88855e38a8</image>
       </images>
     </car>
     <car>
@@ -369,6 +366,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z7TB318683/3/full.webp?v=7bfdfb50dc7e</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z7TB318683/4/full.webp?v=2f71d0f4fe2f</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z7TB318683/5/full.webp?v=f3dd8bec1888</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z7TB318683/6/full.webp?v=064e06634005</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722Z7TB318683/7/full.webp?v=43d937789ffd</image>
       </images>
     </car>
     <car>
@@ -396,6 +395,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z5TB207396/5/full.webp?v=29ac5ce2bec8</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z5TB207396/6/full.webp?v=628b302908af</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z5TB207396/7/full.webp?v=c89fb4580c09</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z5TB207396/8/full.webp?v=984eb09cc2e0</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z5TB207396/9/full.webp?v=30233a807c90</image>
       </images>
     </car>
   </cars>
