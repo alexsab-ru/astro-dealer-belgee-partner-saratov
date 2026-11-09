@@ -50,6 +50,54 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K8622Z1TB947908</id>
+    <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/0/full.webp?v=9716113b068d</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2010990 RUB</sale_price>
+    <min_price>2010990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z1TB947908</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K8622Z3TB947795</id>
+    <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z3TB947795/0/full.webp?v=2fb36b8d5238</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2010990 RUB</sale_price>
+    <min_price>2010990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z3TB947795</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K8622Z4TB944064</id>
     <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</link>
     <brand>Belgee</brand>
@@ -118,6 +166,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>Y4K8622Z8TB942771</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K86C2Z5TB949733</id>
+    <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z5TB949733/0/full.webp?v=927afcdc3e98</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2010990 RUB</sale_price>
+    <min_price>2010990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K86C2Z5TB949733</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K86C2Z9TB949606</id>
+    <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z9TB949606/0/full.webp?v=d16cd8f7479d</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2010990 RUB</sale_price>
+    <min_price>2010990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K86C2Z9TB949606</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
