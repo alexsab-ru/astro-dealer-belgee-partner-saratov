@@ -50,6 +50,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K8622Z2TBB01466</id>
+    <link>https://belgee-partner-saratov.ru/cars/belgee-x50-15-at-122-hp-active-silver-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50</model>
+    <year>2026</year>
+    <title>Belgee X50 Актив 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z2TBB01466/0/full.webp?v=46f027a0980b</image_link>
+    <price>2199990 RUB</price>
+    <sale_price>2199990 RUB</sale_price>
+    <min_price>2199990 RUB</min_price>
+    <max_price>2199990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50, Актив, 1.5 AT (122 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>Y4K8622Z2TBB01466</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K8622Z4TB944064</id>
     <link>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</link>
     <brand>Belgee</brand>
