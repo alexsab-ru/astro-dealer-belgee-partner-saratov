@@ -1,12 +1,6 @@
 [
   {
     "brand": "Belgee",
-    "model": "S50",
-    "price": 1729990,
-    "benefit": 340000
-  },
-  {
-    "brand": "Belgee",
     "model": "X50",
     "price": 2199990,
     "benefit": 0

@@ -313,28 +313,4 @@
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
-  <item>
-    <id>Y4K8824Z5TB207396</id>
-    <link>https://belgee-partner-saratov.ru/cars/belgee-s50-15-at-122-hp-active-4wd-crystal-white-2026/</link>
-    <brand>Belgee</brand>
-    <model>S50</model>
-    <year>2026</year>
-    <title>Belgee S50 Актив 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z5TB207396/0/full.webp?v=dd15958d3f74</image_link>
-    <price>2069990 RUB</price>
-    <sale_price>1729990 RUB</sale_price>
-    <min_price>1729990 RUB</min_price>
-    <max_price>2069990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee S50, Актив, 1.5 AT (122 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>sedan</body_style>
-    <vin>Y4K8824Z5TB207396</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
 </channel>
