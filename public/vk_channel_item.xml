@@ -386,30 +386,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8722DXTB320500</id>
-    <link>https://belgee-partner-saratov.ru/cars/belgee-x70-15t-4wd-dct-150-hp-style-gray-2026/</link>
-    <brand>Belgee</brand>
-    <model>X70</model>
-    <year>2026</year>
-    <title>Belgee X70 Style 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8722DXTB320500/0/full.webp?v=178e04fb18f6</image_link>
-    <price>2839990 RUB</price>
-    <sale_price>2184990 RUB</sale_price>
-    <min_price>2184990 RUB</min_price>
-    <max_price>2839990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X70, Style, 1.5T 4WD DCT (150 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8722DXTB320500</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8722Z9TB319396</id>
     <link>https://belgee-partner-saratov.ru/cars/belgee-x70-15-at-150-hp-style-white-2026/</link>
     <brand>Belgee</brand>
