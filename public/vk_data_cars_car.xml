@@ -2,6 +2,46 @@
 <data>
   <cars>
     <car>
+      <unique_id>Y4K8622Z1TB947908</unique_id>
+      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z1TB947908</vin>
+      <price>2699990</price>
+      <sale_price>2010990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>689000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/0/full.webp?v=9716113b068d</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/1/full.webp?v=b3f1ea485fa2</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/2/full.webp?v=159a69b8edc6</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/3/full.webp?v=8fcbcba01d75</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/4/full.webp?v=c58ab23fcda9</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/5/full.webp?v=535be6869231</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/6/full.webp?v=6122126bd2de</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/7/full.webp?v=6603d39454c1</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/8/full.webp?v=e6e082def2a7</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/9/full.webp?v=38b76b2fe158</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/10/full.webp?v=08be71bbb680</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/11/full.webp?v=b28af86e2fc3</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/12/full.webp?v=d7ab7a4cda60</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/13/full.webp?v=b47c9a8710b4</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/14/full.webp?v=cd207d1610e4</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/15/full.webp?v=060e81a01376</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/16/full.webp?v=bf534e016d52</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/17/full.webp?v=d8ffe70fde30</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/18/full.webp?v=d5a8c7e01477</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/19/full.webp?v=899e2cbb6fd2</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z1TB947908/20/full.webp?v=bfb0911fea53</image>
+      </images>
+    </car>
+    <car>
       <unique_id>Y4K8622Z4TB944064</unique_id>
       <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-onyx-black-2026/</url>
       <mark_id>Belgee</mark_id>
@@ -65,6 +105,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB950088/5/full.webp?v=47e1b3dd7813</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB950088/6/full.webp?v=917deaccf566</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB950088/7/full.webp?v=ce671fa5a890</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB950088/8/full.webp?v=57890b147c41</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z4TB950088/9/full.webp?v=1439d22d8bd8</image>
       </images>
     </car>
     <car>
@@ -171,11 +213,13 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB947985/5/full.webp?v=77e8019cbf9a</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB947985/6/full.webp?v=0b6164b1240f</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB947985/7/full.webp?v=e8c17ea26c6c</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB947985/8/full.webp?v=1231563af695</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8622Z8TB947985/9/full.webp?v=b6483ed1b854</image>
       </images>
     </car>
     <car>
       <unique_id>Y4K86C2Z0TB950708</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-22574454-silver-2026/</url>
+      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
       <mark_id>Belgee</mark_id>
       <folder_id>X50+</folder_id>
       <year>2026</year>
@@ -188,7 +232,7 @@
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X50+, 22574454, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/0/full.webp?v=546324505f49</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/1/full.webp?v=86c63916a1c3</image>
@@ -198,6 +242,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/5/full.webp?v=5e91d2eea027</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/6/full.webp?v=5fd657c1afcb</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/7/full.webp?v=5227b69fbd08</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/8/full.webp?v=610c71b549ee</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z0TB950708/9/full.webp?v=29d776ead685</image>
       </images>
     </car>
     <car>
@@ -274,7 +320,7 @@
     </car>
     <car>
       <unique_id>Y4K86C2Z3TB949309</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-22574454-silver-2026/</url>
+      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
       <mark_id>Belgee</mark_id>
       <folder_id>X50+</folder_id>
       <year>2026</year>
@@ -287,7 +333,7 @@
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X50+, 22574454, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/0/full.webp?v=10c1cc9f17a2</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/1/full.webp?v=1e63e9432109</image>
@@ -297,6 +343,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/5/full.webp?v=e582a8178baa</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/6/full.webp?v=5b853f03ac6a</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/7/full.webp?v=76968d004dab</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/8/full.webp?v=5642ff667cf2</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB949309/9/full.webp?v=12fc7d63813e</image>
       </images>
     </car>
     <car>
@@ -324,11 +372,13 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB950587/5/full.webp?v=72233f81e021</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB950587/6/full.webp?v=6dd3aa27f359</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB950587/7/full.webp?v=4054f2c06b96</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB950587/8/full.webp?v=63dd358dcf79</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z3TB950587/9/full.webp?v=4048ea4379f9</image>
       </images>
     </car>
     <car>
       <unique_id>Y4K86C2Z7TB949166</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-22574454-grey-2026/</url>
+      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</url>
       <mark_id>Belgee</mark_id>
       <folder_id>X50+</folder_id>
       <year>2026</year>
@@ -341,7 +391,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X50+, 22574454, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/0/full.webp?v=1d8a203358a1</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/1/full.webp?v=6988f89e3d87</image>
@@ -351,11 +401,13 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/5/full.webp?v=c1320c675bd2</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/6/full.webp?v=f32e2be19cbb</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/7/full.webp?v=d95b15615930</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/8/full.webp?v=b1e25f3addcf</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB949166/9/full.webp?v=fc3d5893ce65</image>
       </images>
     </car>
     <car>
       <unique_id>Y4K86C2Z7TB950771</unique_id>
-      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-22574454-silver-2026/</url>
+      <url>https://belgee-partner-saratov.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
       <mark_id>Belgee</mark_id>
       <folder_id>X50+</folder_id>
       <year>2026</year>
@@ -368,7 +420,7 @@
       <color>серебряный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Belgee X50+, 22574454, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB950771/0/full.webp?v=7b28b1084316</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K86C2Z7TB950771/1/full.webp?v=593a0e6d7460</image>
@@ -607,6 +659,8 @@
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z3TB215710/5/full.webp?v=4f6e2f3af307</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z3TB215710/6/full.webp?v=cf4f0c325082</image>
         <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z3TB215710/7/full.webp?v=438f0dce0929</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z3TB215710/8/full.webp?v=7456e1d80e4e</image>
+        <image>https://img.upspace.ru/cars/belgee-partner-saratov.ru/new/Y4K8824Z3TB215710/9/full.webp?v=f254d4dd92a7</image>
       </images>
     </car>
   </cars>
